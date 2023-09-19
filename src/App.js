@@ -21,7 +21,7 @@ function App() {
 
         getData();
       },[]);
-
+//comment
       const searchHandler=(event)=>{
           const getSearch= event.target.value;
           
